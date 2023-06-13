@@ -6,7 +6,7 @@
 
 
 int main() {
-    int n;
+    int n;         //创造一个n
     int arr[100]; // 假设数组大小不超过 100
 
     getArr(arr, &n);

@@ -16,6 +16,7 @@ void bubbleSort(int arr[], int n) {
 
 
 
+
 void getArr(int arr[], int* n)//传入的是一个指针，即地址。所以在调用的时候要使用取地址运算符
 {
     printf("请输入数组的大小：");
